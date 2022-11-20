@@ -21,7 +21,7 @@ Usar o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instala
 ```bash
 pip install processador_imagem
 ```
-## Author
+## Autora
 Juliana Batista
 
 ## License
