@@ -1,27 +1,28 @@
-# package_name
+# Processador de Imagens
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Descrição. 
+O pacote de processador_imagem é usado para:
+## Em processamento:
+- Correspondencia de histogramas
+- Similiaridade estrutural
+- Redimencionamento da imagem
 
-## Installation
+## Util:
+- Ler imagem
+- Salvar imagem
+- Plotar imagem
+- Exibir resultados
+- Plotar histograms
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+## Instalação
+
+Usar o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar processador_imagem
 
 ```bash
-pip install package_name
+pip install processador_imagem
 ```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
-```
-
 ## Author
-My_name
+Juliana Batista
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
